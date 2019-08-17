@@ -3,6 +3,8 @@ v1.0.6
 Main changes:
 - Changed metric system from rem to px for extensible compatibility.
 
+------------------------------------------------------------------
+
 whatsappButton.js is a plugin made with javascript that creates a interactive button for your web aplications. 
 It is easy-to-use, customizable and resilient.
 
