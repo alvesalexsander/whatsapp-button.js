@@ -1,4 +1,5 @@
 # whatsappButton.js
+v1.0.6
 
 whatsappButton.js is a plugin made with javascript that creates a interactive button for your web aplications. 
 It is easy-to-use, customizable and resilient.
