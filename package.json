@@ -1,6 +1,6 @@
 {
   "name": "whatsapp-button.js",
-  "version": "1.0.11",
+  "version": "1.0.11.1",
   "description": "Get in touch with your customers via Whatsapp Web API using a highly customized whatsapp-button.",
   "main": "index.js",
   "files": [
