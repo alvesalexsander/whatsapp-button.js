@@ -1,20 +1,20 @@
 # whatsappButton.js
-v1.0.6
+v1.0.5
 Main changes:
-- Changed metric system from rem to px for extensible compatibility.
+- Update URL for github pages and documentation.
 
 ------------------------------------------------------------------
 
 whatsappButton.js is a plugin made with javascript that creates a interactive button for your web aplications. 
 It is easy-to-use, customizable and resilient.
 
-Try it out at: https://sashaclimax.github.io/whatsappButton/
+Try it out at: https://alvesalexsander.github.io/whatsappButton/
 
 **[Install via NPM!](https://npmjs.com/package/whatsapp-button.js)** running command: npm install whatsapp-button.js
 
 OR 
 
-**[Download files from here!](https://github.com/sashaclimax/whatsapp-button.js)**
+**[Download files from here!](https://github.com/alvesalexsander/whatsapp-button.js)**
 
 CDN Links:
 
@@ -29,17 +29,17 @@ JS file: https://unpkg.com/whatsapp-button.js/dist/wpp_js/whatsappButton.min.js
 
 OR
 
-Download plugin files at: **[whatsappButton.js page](https://github.com/sashaclimax/whatsapp-button.js)** and put it inside your *node_modules* folder (**path must to be node_modules/whatsapp-button.js**).
+Download plugin files at: **[whatsappButton.js page](https://github.com/alvesalexsander/whatsapp-button.js)** and put it inside your *node_modules* folder (**path must to be node_modules/whatsapp-button.js**).
 
     - **2.** Link the .CSS file or [CDN .CSS URL](https://unpkg.com/whatsapp-button.js/dist/wpp_css/whatsappButton.min.css) with a link element in the head tag of your application. 
 
     - **3.** Link the .JS file or [CDN .JS URL](https://unpkg.com/whatsapp-button.js/dist/wpp_js/whatsappButton.min.js) with a script element in the head or body tags of your application. 
 
-- **4.** Use the User Interface at https://sashaclimax.github.io/whatsappButton/ to create your button layout 
+- **4.** Use the User Interface at https://alvesalexsander.github.io/whatsappButton/ to create your button layout 
 
 OR
 
-check the **[documentation page](https://github.com/sashaclimax/whatsappButton)** for further information.
+check the **[documentation page](https://github.com/alvesalexsander/whatsappButton)** for further information.
 
 - **5.** At the end of the creation process, the UI will present you an javascript code like this one:
 

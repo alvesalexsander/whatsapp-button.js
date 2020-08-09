@@ -1,7 +1,7 @@
 {
   "name": "whatsapp-button.js",
-  "version": "1.0.3",
-  "description": "Get in touch with your clients via Whatsapp Web API using a highly customized whatsapp-button.",
+  "version": "1.0.5",
+  "description": "Get in touch with your customers via Whatsapp Web API using a highly customized whatsapp-button.",
   "main": "index.js",
   "files": [
     "dist/"
@@ -9,10 +9,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://sashaclimax.github.io/whatsappButton",
+  "homepage": "https://alvesalexsander.github.io/whatsappButton/",
   "repository": {
     "type": "git",
-    "url": "https://sashaclimax.github.io/whatsappButton.js"
+    "url": "https://github.com/alvesalexsander/whatsappButton"
   },
   "keywords": [
     "whatsapp",
