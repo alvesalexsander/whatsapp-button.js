@@ -2,7 +2,7 @@
 
 whatsappButton.js Plugin
 
-Visite http://github.com/sashaclimax/whatsappButton para ter acesso a documentação
+Visite http://github.com/alvesalexsander/whatsappButton para ter acesso a documentação
 e mais informações a respeito do plugin.
 
 pNumber *required* (string/number) = Referente ao número de telefone que será utilizado para enviar a mensagem pela Whatsapp API.
@@ -305,7 +305,7 @@ class WhatsappButton {
             return 'rgb'
         } 
         else {
-            throw new Error("Color code has a wrong format. Please, use #xxxxxx, #xxx or\ncheck the documentation for pre-defined colors list at: https://github.com/sashaclimax/whatsappButton")
+            throw new Error("Color code has a wrong format. Please, use #xxxxxx, #xxx or\ncheck the documentation for pre-defined colors list at: https://github.com/alvesalexsander/whatsappButton")
         }
     }
 
@@ -359,7 +359,7 @@ class WhatsappButton {
         && (URL.includes('https://fonts.googleapis.com/css?family='))){
             return true
         } else {
-            throw new Error('Custom font URL not compatible.\nPlease use Google Fonts API to select a font.\nFor more information, please\ncheck the documentation at https://github.com/sashaclimax/whatsappButton')
+            throw new Error('Custom font URL not compatible.\nPlease use Google Fonts API to select a font.\nFor more information, please\ncheck the documentation at https://github.com/alvesalexsander/whatsappButton')
         }
     }
 
@@ -367,7 +367,7 @@ class WhatsappButton {
         let fontName = URL.substring(40, URL.length).split('&')[0]
 
         if(fontName.includes('|')){
-            throw new Error('Invalid font style. Please, use only one font style. For more information,\ncheck the documentation at: https://github.com/sashaclimax/whatsappButton')
+            throw new Error('Invalid font style. Please, use only one font style. For more information,\ncheck the documentation at: https://github.com/alvesalexsander/whatsappButton')
         } else if(fontName.includes('+')){
             let matches = (fontName.split('+').length) - 1
             for(let i = 0; i < matches; i++){
@@ -393,7 +393,7 @@ class WhatsappButton {
             }
             return data
         } else {
-            throw new Error("Missing phone number or it has a wrong format. Please, use only numbers: eg. 5522123456789.\nFor more information, check the documentation at: https://github.com/sashaclimax/whatsappButton")
+            throw new Error("Missing phone number or it has a wrong format. Please, use only numbers: eg. 5522123456789.\nFor more information, check the documentation at: https://github.com/alvesalexsander/whatsappButton")
         }
     }
 
@@ -418,7 +418,7 @@ class WhatsappButton {
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>
 
-        Developed by Alexsander Alves (https://github.com/sashaclimax)
+        Developed by Alexsander Alves (https://github.com/alvesalexsander)
         The developer does not claim any copyright related to whatsappButton.js plugin since it is an open-source software
     */
 
