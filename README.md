@@ -25,15 +25,15 @@ JS file: https://unpkg.com/whatsapp-button.js/dist/wpp_js/whatsappButton.min.js
 <br>
 # How To Use:
 
-- **1.** **[Install via NPM!](https://npmjs.com/package/whatsapp-button.js)**: npm install whatsapp-button.js 
+- **1.** **[Install via NPM!](https://npmjs.com/package/whatsapp-button.js)** using 'npm install whatsapp-button.js' (recommended).
 
 OR
 
 Download plugin files at: **[whatsappButton.js page](https://github.com/alvesalexsander/whatsapp-button.js)** and put it inside your *node_modules* folder (**path must to be node_modules/whatsapp-button.js**).
 
-    - **2.** Link the .CSS file or [CDN .CSS URL](https://unpkg.com/whatsapp-button.js/dist/wpp_css/whatsappButton.min.css) with a link element in the head tag of your application. 
+- **2.** Link the .CSS file or [CDN .CSS URL](https://unpkg.com/whatsapp-button.js/dist/wpp_css/whatsappButton.min.css) with a link element in the head tag of your application. 
 
-    - **3.** Link the .JS file or [CDN .JS URL](https://unpkg.com/whatsapp-button.js/dist/wpp_js/whatsappButton.min.js) with a script element in the head or body tags of your application. 
+- **3.** Link the .JS file or [CDN .JS URL](https://unpkg.com/whatsapp-button.js/dist/wpp_js/whatsappButton.min.js) with a script element in the head or body tags of your application. 
 
 - **4.** Use the User Interface at https://alvesalexsander.github.io/whatsappButton/ to create your button layout 
 
