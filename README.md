@@ -1,7 +1,7 @@
 # whatsappButton.js
-v1.0.11
+v1.0.11.1
 Main changes:
-- Update URL for github pages and documentation.
+- README improvements.
 
 ------------------------------------------------------------------
 
